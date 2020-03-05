@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Groceries",
+        "keywords": [
+            [
+                "jumbo",
+                true
+            ],
+            [
+                "AH",
+                true
+            ],
+            [
+                "alber heijn",
+                true
+            ],
+            [
+                "lidl",
+                true
+            ],
+            [
+                "deliforma",
+                true
+            ],
+            [
+                "coop",
+                true
+            ]
+        ],
+        "enable": true
+    },
+    {
+        "name": "Liabilities",
+        "keywords": [
+            [
+                "belasting",
+                true
+            ],
+            [
+                "anderzorg",
+                true
+            ],
+            [
+                "oranjepakket",
+                true
+            ],
+            [
+                "nationale-nederlanden",
+                true
+            ],
+            [
+                "delta loyd",
+                true
+            ]
+        ],
+        "enable": true
+    },
+    {
+        "name": "Clothing",
+        "keywords": [
+            [
+                "Jack&Jones",
+                true
+            ],
+            [
+                "Hema",
+                true
+            ]
+        ],
+        "enable": true
+    }
+]
