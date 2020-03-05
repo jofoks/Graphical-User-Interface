@@ -1,0 +1,1 @@
+One of my first Python projects (excuse the messy code). Its purpose is to create and edit filters (with the name and keywords) for whatever needs a custom string filter. (in my case that was finances)
